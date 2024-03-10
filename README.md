@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadwaleedusman&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadwaleedusman" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mwaleedusman" target="blank"><img src="https://img.shields.io/twitter/follow/mwaleedusman?logo=twitter&style=for-the-badge" alt="mwaleedusman" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/muhammad-waleed-u-97b05319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-waleed-u-97b05319b" height="30" width="40" /></a>
