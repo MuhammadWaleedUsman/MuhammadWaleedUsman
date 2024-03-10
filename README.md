@@ -2,6 +2,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waleed Usman</h1>
 <h3 align="center">A passionate Data Engineer/ Full Stack Developer</h3>
 
+Solving complex tech challenges across diverse domains: Full Stack Development, Artificial Intelligence, and Cybersecurity.
+
+Key Highlights of Expertise:
+- Specialized in developing Generative AI and Machine Learning models.
+- Demonstrated proficiency as a Data Engineer and Big Data Developer in enterprise-level projects, with a strong focus on seamless migration to AWS infrastructure.
+- Experience as a Full Stack Developer Using Python, Golang, ReactJS, and JavaScript, dedicated to writing clean and efficient code.
+- Experienced in frameworks and tools including Django, Flask, TensorFlow, PyTorch, PySpark, MySQL, PostgreSQL, ElasticSearch, AWS services, Amazon RDS, and MongoDB.
+- Skilled in query optimization, ETL and ELT pipeline development, web scraping, and performing comprehensive data analysis using both R and Python.
+
+Dedicated to delivering high-quality solutions with writing clean and maintainable code.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadwaleedusman&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadwaleedusman" /> </p>
 
 <h3 align="left">Connect with me:</h3>
