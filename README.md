@@ -10,8 +10,6 @@
   <a href="https://linkedin.com/in/muhammad-waleed-u-97b05319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-waleed-u-97b05319b" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/17307948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17307948" height="30" width="40" /></a>
 <a href="https://twitter.com/mwaleedusman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mwaleedusman" height="30" width="40" /></a>
-
-
 <a href="https://instagram.com/muhammadwaleedusmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadwaleedusmann" height="30" width="40" /></a>
 </p>
 
