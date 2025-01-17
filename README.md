@@ -4,7 +4,7 @@
 
 
 
-Solving complex tech challenges across diverse domains: Full Stack Development, Artificial Intelligence, and Cybersecurity.
+Solving complex tech challenges across diverse domains: Full Stack Development, Artificial Intelligence.
 
 🌟 Key Highlights of Expertise:
 
