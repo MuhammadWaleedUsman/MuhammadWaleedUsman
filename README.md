@@ -1,4 +1,3 @@
-![logo](https://github.com/MuhammadWaleedUsman/MuhammadWaleedUsman/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Waleed Usman</h1>
 <h3 align="center">A passionate Data Engineer/ Full Stack Developer</h3>
 
